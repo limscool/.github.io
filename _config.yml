@@ -1,22 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@limscool Sign out
-114
-4,886 8,426 mmistakes/minimal-mistakes
- Code  Issues 8  Pull requests 4  Projects 0  Insights
-minimal-mistakes/_config.yml
-@mmistakes mmistakes Remove Google+
-59111d1 21 days ago
-@mmistakes @ohadschn @Pradhyo @yihangho @LoveMeWithoutAll @YuyingWu @westes @vlajos @tony-ho @rriemann @nickgarlis @maxheld83 @maxime-michel @matiasfrndz @kennonkwok @jeremyvoltz @thoemmi @hbarudin @rschaerer @gabor-meszaros @00-Evan @cdodd @4brunu
-296 lines (268 sloc)  8.48 KB
-    
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -37,10 +18,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+name                     : "limscool"
+description              : "limscool"
+url                      : "https://limscool.github.io"
+baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -312,15 +293,4 @@ defaults:
       comments: # true
       share: true
       related: true
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+remote_theme : mmistakes/minimal-mistakes
